@@ -4,13 +4,14 @@ This is a modified version of the original project. The original project code an
 
 ## MS2-autoassign
 
-The original project was created by Ben NIU and is licensed under the MIT License. You can view the original project [https://github.com/Ben-NIU/MS2-AutoAssign]
+The original project was created by Ben NIU and is licensed under the MIT License. 
+You can view the original project [https://github.com/Ben-NIU/MS2-AutoAssign]
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-# MS2-autoassign-Pt
+
 Original code by Ben NIU
 Copyright (c) 2017 Ben NIU  
 Modified code by HARUDAY404
