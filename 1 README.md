@@ -9,7 +9,7 @@ You can view the original project [https://github.com/Ben-NIU/MS2-AutoAssign]
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [1 LICENSE](./LICENSE) file for details.
 
 
 Original code by Ben NIU
